@@ -1,0 +1,41 @@
+@font-face {
+  font-family: "puntaregular";
+  src: url("../assets/fonts/punta_regular-webfont.woff2") format("woff2"),
+    url("../assets/fonts/punta_regular-webfont.woff") format("woff");
+}
+
+@font-face {
+  font-family: "Satoshi-Variable";
+  src: url("../assets/fonts/Satoshi-Variable.woff2") format("woff2"),
+    url("../assets/fonts/Satoshi-Variable.woff") format("woff");
+  font-weight: 300 900;
+  font-display: swap;
+  font-style: normal;
+}
+
+body {
+  font-family: "Satoshi-Variable";
+  --my-color: blueviolet;
+}
+
+.quiz-link {
+  color: var(--my-color);
+}
+
+.quiz-link,
+.lounge-link {
+  font-family: "Satoshi-Variable";
+}
+
+.app-header {
+  font-family: "puntaregular";
+  color: var(--my-color);
+}
+
+.quiz-image {
+  border-radius: 5px;
+}
+
+button {
+  color: var(--my-color);
+}
