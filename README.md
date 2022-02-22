@@ -12,6 +12,6 @@ I played around with TS, React, NextJS, Tailwind, thirdWeb sdk, Polygon Testnet,
 
 ## Preview
 
-You can check out the DEMO live on [Here](https://lootbox-quizoo.fly.dev/):
+You can check out the DEMO live on [Here](https://lootbox-quizoo.fly.dev/)
 
 
