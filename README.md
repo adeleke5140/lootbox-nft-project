@@ -14,4 +14,7 @@ I played around with TS, React, NextJS, Tailwind, thirdWeb sdk, Polygon Testnet,
 
 You can check out the DEMO live on [Here](https://lootbox-quizoo.fly.dev/)
 
+## Getting Started
+This project is on the Polygon Mumbai Testnet. You will have to switch the network in your metamask wallet. To do that, you can check out [this Guide}(https://docs.polygon.technology/docs/develop/metamask/config-polygon-on-metamask/)
+
 
